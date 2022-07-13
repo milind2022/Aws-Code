@@ -1,13 +1,13 @@
 ##### Provider #####
 region = "ap-south-1"
-access_key = "AKIAWZULQWHUKEU3FKP6"
-secret_key = "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"
+access_key = "AKIAWZULQWHUO4H4IHGZ"
+secret_key = "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"
 
 ##### Instance #####
 ami_id = "ami-08df646e18b182346"
 instance_type = "t2.micro"
 ec2name = "democe2"
-keypair_id = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDBuHygXqeYztUqR/T1XInAfuX97TkuDeUqFIqW0MWaEZASe/O4IOSW2FVsEabCLCtIn66TR32L4ReOvDGkd8kX+NckdBny7DSk0uR91cFva2qK0Z575dCOyWxudpOBUmTCcvN56e9+sLYgjZpTEUGb7xV8MvXQQJGtcTqQa4BiWsvrStmeN0zIl7p/HJftizW4rhYvoJPlE5Yj38FmMtDtJhCuuDZEGqqc9g1wAqvBhqGHjcXQgThiL5mEnhsjrUBwn6toLxLXUmVxu5+FpeqNDo8ZeEGvifWYQbwXn3MSFxbMeAXloeKXzfCwSz1hlW2oTwvqrzLZ7rBvNF0jzb+X rsa-key-20220711"
+keypair_id = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCPqqOtYadQxwFl0Ps6YIGl7J/UH/FtKLZoPRhJp+6Gqa3NlLzeAxJTlJHmpWwi/+2QyZnCMujnOpmKogESwbNiDDToghemalyYrP8efZSvFmhZ3yLI+fMHWE6p5o3F9GhQnkdlA/Ia16tGZGyvL2mIW5+lIwx2MfFkZ+0jwK3mkMsFmXE2yFe5E2F2dEx8NQuzMHbanAYgalCtbeU6b1/CIjCaWej/s8GdpPvCNX7u0pnD8HiZo3XxzlFRMxjE5bISj6m4QAKXrqQxkO8XU4rxnB0hlFyxODbQSrsr6PJa4u7v1wtrmB6Q5spqpM/RmqDE0bpUu84aqcVH32e6px91 rsa-key-20220713"
 
 
 ##### Network #####
